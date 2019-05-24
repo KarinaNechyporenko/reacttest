@@ -2,27 +2,27 @@
   "errors": [],
   "warnings": [],
   "version": "4.32.2",
-  "hash": "6e3310bf239dcd24d19b",
-  "time": 7687,
-  "builtAt": 1558688978388,
+  "hash": "ceee3f0e543305c128e5",
+  "time": 6911,
+  "builtAt": 1558689269001,
   "publicPath": "/",
   "outputPath": "C:\\Users\\KNechyporenko\\Downloads\\reacttest\\first-test\\dist",
   "assetsByChunkName": {
-    "main": "main.6e3310bf.js",
+    "main": "main.ceee3f0e.js",
     "src/containers/Post": "templates/src/containers/Post.3930bbd6.js",
     "src/pages/404": "templates/src/pages/404.f13d9472.js",
     "src/pages/about": "templates/src/pages/about.2199a06c.js",
     "src/pages/blog": "templates/src/pages/blog.c1df3cdf.js",
     "src/pages/index": "templates/src/pages/index.f48e4c1d.js",
     "styles": [
-      "styles.896a7f48.css",
-      "templates/styles.896a7f48.js"
+      "styles.99acece6.css",
+      "templates/styles.99acece6.js"
     ],
-    "vendors~main": "templates/vendors~main.241fdf00.js"
+    "vendors~main": "templates/vendors~main.6280d330.js"
   },
   "assets": [
     {
-      "name": "main.6e3310bf.js",
+      "name": "main.ceee3f0e.js",
       "size": 6573,
       "chunks": [
         0
@@ -33,7 +33,7 @@
       "emitted": true
     },
     {
-      "name": "styles.896a7f48.css",
+      "name": "styles.99acece6.css",
       "size": 361,
       "chunks": [
         6
@@ -99,7 +99,7 @@
       "emitted": true
     },
     {
-      "name": "templates/styles.896a7f48.js",
+      "name": "templates/styles.99acece6.js",
       "size": 82,
       "chunks": [
         6
@@ -110,8 +110,8 @@
       "emitted": true
     },
     {
-      "name": "templates/vendors~main.241fdf00.js",
-      "size": 236255,
+      "name": "templates/vendors~main.6280d330.js",
+      "size": 236235,
       "chunks": [
         7
       ],
@@ -130,10 +130,10 @@
         0
       ],
       "assets": [
-        "styles.896a7f48.css",
-        "templates/styles.896a7f48.js",
-        "templates/vendors~main.241fdf00.js",
-        "main.6e3310bf.js"
+        "styles.99acece6.css",
+        "templates/styles.99acece6.js",
+        "templates/vendors~main.6280d330.js",
+        "main.ceee3f0e.js"
       ],
       "children": {},
       "childAssets": {}
@@ -147,10 +147,10 @@
         0
       ],
       "assets": [
-        "styles.896a7f48.css",
-        "templates/styles.896a7f48.js",
-        "templates/vendors~main.241fdf00.js",
-        "main.6e3310bf.js"
+        "styles.99acece6.css",
+        "templates/styles.99acece6.js",
+        "templates/vendors~main.6280d330.js",
+        "main.ceee3f0e.js"
       ],
       "children": {},
       "childAssets": {}
@@ -217,7 +217,7 @@
         "main"
       ],
       "files": [
-        "main.6e3310bf.js"
+        "main.ceee3f0e.js"
       ],
       "hash": "2c669a1b1cd57996e217",
       "siblings": [
@@ -1444,10 +1444,10 @@
         "styles"
       ],
       "files": [
-        "styles.896a7f48.css",
-        "templates/styles.896a7f48.js"
+        "styles.99acece6.css",
+        "templates/styles.99acece6.js"
       ],
-      "hash": "896a7f483fff6bb9d836",
+      "hash": "99acece611380fd96d5f",
       "siblings": [
         0,
         7
@@ -1522,7 +1522,7 @@
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 4,
-          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1558688972805\n      var cssReload = require(\"C:/Users/KNechyporenko/Downloads/reacttest/first-test/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+          "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1558689263579\n      var cssReload = require(\"C:/Users/KNechyporenko/Downloads/reacttest/first-test/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
         },
         {
           "id": "",
@@ -1610,9 +1610,9 @@
         "vendors~main"
       ],
       "files": [
-        "templates/vendors~main.241fdf00.js"
+        "templates/vendors~main.6280d330.js"
       ],
-      "hash": "241fdf00bd3395813d31",
+      "hash": "6280d330985ce40717c9",
       "siblings": [
         0,
         6
@@ -24426,7 +24426,7 @@
         "ModuleConcatenation bailout: Module is not an ECMAScript module"
       ],
       "depth": 4,
-      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1558688972805\n      var cssReload = require(\"C:/Users/KNechyporenko/Downloads/reacttest/first-test/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
+      "source": "// extracted by extract-css-chunks-webpack-plugin\n    if(module.hot) {\n      // 1558689263579\n      var cssReload = require(\"C:/Users/KNechyporenko/Downloads/reacttest/first-test/node_modules/extract-css-chunks-webpack-plugin/dist/hmr/hotModuleReplacement.js\")(module.id, {\"hot\":true,\"locals\":false});\n      module.hot.dispose(cssReload);\n      module.hot.accept(undefined, cssReload);\n    }\n  "
     },
     {
       "id": 134,

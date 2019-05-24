@@ -34,5 +34,5 @@ export default {
     require.resolve('react-static-plugin-sitemap'),
   ],
   siteRoot: 'https://karinanechyporenko.github.io/',
-  basePath: 'static/react-static',
+  basePath: 'reacttest/dist',
 }

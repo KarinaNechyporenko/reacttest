@@ -25,7 +25,7 @@
     "C:\\Users\\KNechyporenko\\Downloads\\reacttest\\first-test"
   ],
   "siteRoot": "https://karinanechyporenko.github.io",
-  "basePath": "static/react-static",
+  "basePath": "reacttest/dist",
   "paths": {
     "ROOT": "C:\\Users\\KNechyporenko\\Downloads\\reacttest\\first-test",
     "SRC": "C:\\Users\\KNechyporenko\\Downloads\\reacttest\\first-test\\src",
@@ -41,7 +41,7 @@
     "HTML_TEMPLATE": "C:\\Users\\KNechyporenko\\Downloads\\reacttest\\first-test\\dist\\index.html",
     "STATIC_DATA": "C:\\Users\\KNechyporenko\\Downloads\\reacttest\\first-test\\dist\\staticData"
   },
-  "publicPath": "https://karinanechyporenko.github.io/static/react-static/",
+  "publicPath": "https://karinanechyporenko.github.io/reacttest/dist/",
   "assetsPath": "",
   "extractCssChunks": false,
   "inlineCss": false,
